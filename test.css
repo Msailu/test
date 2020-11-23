@@ -21,15 +21,13 @@ nav {
 nav >ul> li {
   
     list-style-type: none;
-   /* padding-left: 0;
-    margin-left: 0;*/
-   
     display: inline-flex;
     padding: 10px;
-    
     
 }
 
 .imageclass{
-    text-align: center;
+     text-align: center;
+
 }
+
